@@ -1,0 +1,18 @@
+{
+  "name": "formationjava",
+  "version": "1.0.0",
+  "description": "",
+  "main": "concatenation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "AKADortys",
+  "license": "ISC",
+  "dependencies": {
+    "@inquirer/prompts": "^3.1.2",
+    "@inquirer/select": "^1.2.12",
+    "colors": "^1.4.0",
+    "inquirer": "^9.2.11"
+  }
+}
